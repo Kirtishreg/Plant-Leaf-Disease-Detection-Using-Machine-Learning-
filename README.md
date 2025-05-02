@@ -55,7 +55,6 @@ To run the web application, execute the following command:
 ```bash
 python app.py
 ```
-Once the server is running, navigate to http://127.0.0.1:5000/ in your web browser to use the application.
 
 Prediction Workflow
 - **Upload an Image**: Use the web interface to upload an image of a plant leaf.
